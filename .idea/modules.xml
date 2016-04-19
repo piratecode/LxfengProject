@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LxfengProject.iml" filepath="$PROJECT_DIR$/LxfengProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticscrollview/elasticscrollview.iml" filepath="$PROJECT_DIR$/elasticscrollview/elasticscrollview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ringView/ringView.iml" filepath="$PROJECT_DIR$/ringView/ringView.iml" />
+    </modules>
+  </component>
+</project>

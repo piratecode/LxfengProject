@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RingView">
+        <attr name="ring_primary_color" format="color"></attr>
+        <attr name="ring_secondary_color" format="color"></attr>
+        <attr name="ring_start_angle" format="integer"></attr>
+        <attr name="ring_width" format="dimension"></attr>
+    </declare-styleable>
+</resources>
